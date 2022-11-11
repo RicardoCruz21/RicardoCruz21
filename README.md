@@ -2,6 +2,8 @@
 
 **`Full-Stack Web Developer | Pattern Builder`**
 
+I’ve always wanted to enhance and add new features to the internal tools and software I used in my previous role working with large spreadsheets. Using analytical thinking, I enjoyed breaking down our difficult processes with our team and creating Excel macros that would complete procedures with a click of a button. After self-studying web development for about a year I made the deliberative decision to pursue a career as a Full-Stack Web Developer.
+
 I'm currently attending Tech Elevator, a coding bootcamp, where I am learning how to use object oriented programming in Java, create databases in PostgreSQL, build Web APIs with Spring Boot, and create front-end applications with Vue.js. I’ve been gaining experience with pair programming and working with teams to develop our capstone projects. After completing the program I will be looking for a role where I can help create easy-to-use solutions that eliminate complex problems for businesses and teams.
 
 ---
